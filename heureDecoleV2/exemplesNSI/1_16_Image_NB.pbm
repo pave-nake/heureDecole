@@ -1,0 +1,9 @@
+P1
+# The P3 means colors are in ASCII, then 6 columns and 4 rows,
+# then 1   for max color, then RGB triplets
+6 4
+0 1 1 1 1 0 
+0 0 0 1 0 0 
+0 0 1 0 0 0 
+0 1 1 1 1 0
+
